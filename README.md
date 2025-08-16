@@ -1,5 +1,5 @@
 # 💫 About Me:
-First-year Computer Science student at Kennesaw State University <br>proficient at Python programming language.
+Second-year Computer Science and Mathematics student at Kennesaw State University <br>proficient in Python and Java programming languages.
 
 
 ## 🌐 Socials:
