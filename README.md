@@ -1,17 +1,19 @@
 # 💫 About Me:
-Second-year Computer Science and Mathematics student at Kennesaw State University <br>proficient in Python and Java programming languages.
+Second-year Computer Science and Mathematics student at Kennesaw State University.
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tylinnn9336) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tylin Delaney) 
+([https://linkedin.com/in/Tylin Delaney](https://www.linkedin.com/in/tylin-delaney/)) 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tylinndd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tylinndd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tylinndd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+## Python 
+## Java
+## JavaScript
+## C#
+## LaTeX 
+## HTML/CSS 
+## C++ 
+## SQL
 ---
 [![](https://visitcount.itsvg.in/api?id=tylinndd&icon=0&color=0)](https://visitcount.itsvg.in)
 
