@@ -11,10 +11,7 @@
 
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+
 
 
 <!--h2 without bottom border-->
@@ -71,7 +68,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python, java, javascript, c#, latex, html, css, c++, sql, git, vs code, pycharm, intellij, node.js, bash, xcode, excel, pandas, scikit-learn, flask, numpy, pygame, react, tensorflow&perline=14" />
+    <h1>PYTHON, JAVA, JAVASCRIPT, C#, LATEX, HTML, CSS, C++, SQL, GIT, VS CODE, PYCHARM, INTELLIJ, NODE.JS, BASH, XCODE, EXCEL, PANDAS, SCIKIT-LEARN, FLASK, NUMPY, PYGAME, REACT, TENSORFLOW</h1>
   </a>
 </p>
 
