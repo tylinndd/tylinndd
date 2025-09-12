@@ -1,25 +1,108 @@
-# 💫 About Me:
-Second-year Computer Science and Mathematics student at Kennesaw State University.
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Tylin</h1></summary>
+  </ul>
+</div>
 
 
-## 🌐 Socials:
-([https://linkedin.com/in/Tylin Delaney](https://www.linkedin.com/in/tylin-delaney/)) 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-# 💻 Tech Stack:
-## Python 
-## Java
-## JavaScript
-## C#
-## LaTeX 
-## HTML/CSS 
-## C++ 
-## SQL
----
-[![](https://visitcount.itsvg.in/api?id=tylinndd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is Part of Programming</h2></summary>
+  </ul>
+</div>
 
-<!---
-tylinndd/tylinndd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<!--Intro start-->
+- 🔭 I’m currently working on **React, C++, SQL, Tensorflow**
+
+- 🌱 I’m currently learning **to build full-stack machine learning applications efficiently.**
+
+- ☁️ I've a keen interest in machine learning and quantitative finance. So, I'm learning **C++, Tensorflow, Scikit-learn, Pandas, Numpy**
+
+- 📫 Feel free to reach me out **tylinjd1@gmail.com**
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tylinndd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python, java, javascript, c#, latex, html, css, c++, sql, git, vs code, pycharm, intellij, node.js, bash, xcode, excel, pandas, scikit-learn, flask, numpy, pygame, react, tensorflow&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/tylin-delaney/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+----------------------------------------------------------------------
+Credit: [1010nishant](https://github.com/1010nishant)
+
+Last Edited on: 29/4/2023
