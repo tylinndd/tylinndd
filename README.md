@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **to build full-stack machine learning applications efficiently.**
 
-- ☁️ I've a keen interest in machine learning and quantitative finance. So, I'm learning **C++, Tensorflow, Scikit-learn, Pandas, Numpy**
+- ☁️ I've a keen interest in machine learning, data engineering, and quantitative finance. So, I'm learning **C++, Tensorflow, Scikit-learn, Pandas, Numpy**
 
 - 📫 Feel free to reach me out **tylinjd1@gmail.com**
 <!--Intro end-->
