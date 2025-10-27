@@ -29,7 +29,7 @@
 
 - ☁️ I've a keen interest in machine learning, data engineering, and quantitative finance. So, I'm learning **C++, Tensorflow, SQL, Scikit-learn, Pandas, Numpy**
 
-- 📫 Feel free to reach me out **tylinjd1@gmail.com**
+- 📫 Feel free to reach me at **tylinjd1@gmail.com**
 <!--Intro end-->
 
 
