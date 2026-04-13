@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm Tylin 👋</h1></summary>
+    <summary><h1 style="display: inline-block">Hi, I'm Tylin</h1></summary>
   </ul>
 </div>
 
@@ -23,11 +23,11 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, C++, SQL, Tensorflow**
+- 🔭 I’m currently working on **ATL Quest with XR DOJO, machine learning research, and having fun building at hackathons.**
 
-- 🌱 I’m currently learning **to build full-stack machine learning applications efficiently.**
+- 🌱 I’m currently learning **to build machine learning models, data engineering pipelines, and backend systems.**
 
-- ☁️ I've a keen interest in machine learning, data engineering, and quantitative finance. So, I'm learning **C++, Tensorflow, SQL, Scikit-learn, Pandas, Numpy**
+- ☁️ I have a keen interest in machine learning, data engineering, and backend engineering. So, I'm learning **C/C++, SQL, Tensorflow, Apache Airflow, Pandas**
 
 - 📫 Feel free to reach me at **tylinjd1@gmail.com**
 <!--Intro end-->
