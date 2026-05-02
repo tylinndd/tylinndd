@@ -33,11 +33,14 @@
   </ul>
 </div>
 
-- 💻 Software Engineer Intern at Fiserv and XR DOJO
-- 🔭 Currently working on **ML research, data engineering pipelines, and building at hackathons**
-- 🌱 Learning **C/C++, SQL, TensorFlow, Apache Airflow**
-- ☁️ Interested in **backend engineering, data engineering, and cloud computing**
-- 📫 Reach me at **[tylinjd1@gmail.com](mailto:tylinjd1@gmail.com)** | **[MyWebsite](https://tylindelaney.dev/)**
+
+<p align="center">
+  ✔️ Software Engineer Intern at Fiserv and XR DOJO <br/>
+  ✔️ Currently working on <strong>ML research, data engineering pipelines, and building at hackathons</strong><br/>
+  ✔️ Learning <strong>C/C++, SQL, TensorFlow, Apache Airflow</strong><br/>
+  ✔️ Interested in <strong>backend engineering, data engineering, and cloud computing</strong><br/>
+  ✔️ Reach me at <a href="mailto:tylinjd1@gmail.com">tylinjd1@gmail.com | <a href="https://tylindelaney.dev/">My Website</a>
+</p>
 
 <!--horizontal divider (gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
