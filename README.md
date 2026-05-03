@@ -11,7 +11,7 @@
 
 <!--Tagline-->
 <p align="center">
-  CS + Math Student at UGA &nbsp;·&nbsp; Backend, Data, ML &nbsp;·&nbsp; Building real products and systems
+  CS + Math Student at UGA &nbsp;·&nbsp; Building Real Products and Systems
 </p>
 
 <!--Badges-->
@@ -39,66 +39,32 @@
   ✔️ Currently working on <strong>ML research, data engineering pipelines, and building at hackathons</strong><br/>
   ✔️ Learning <strong>C/C++, SQL, TensorFlow, Apache Airflow</strong><br/>
   ✔️ Interested in <strong>backend engineering, data engineering, and cloud computing</strong><br/>
-  ✔️ Reach me at <a href="mailto:tylinjd1@gmail.com">tylinjd1@gmail.com | <a href="https://tylindelaney.dev/">My Website</a>
+  ✔️ Reach me at <a href="mailto:tylinjd1@gmail.com">tylinjd1@gmail.com</a> | <a href="https://tylindelaney.dev/">My Website</a> | <a href="https://www.linkedin.com/in/tylin-delaney/">LinkedIn</a>
 </p>
 
-<!--horizontal divider (gradient)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 
 
 <!--horizontal divider (gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--Tech Stack-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies </h2></summary>
+    <summary><h2 style="display: inline-block">Technologies & Stats</h2></summary>
   </ul>
 </div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,react,nodejs,fastapi,flask,tensorflow,sklearn,postgres,sqlite,git,bash,linux,vscode" />
-</p>
-
-<!--horizontal divider (gradient)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--Stats-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">GitHub Stats</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tylinndd&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" />
-</td>
-<td width="50%" align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=tylinndd&theme=dark&hide_border=true" />
-</td>
-</tr>
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; background: transparent;">
+  <tr>
+    <td align="center" valign="top" style="border: none; padding: 10px;">
+      <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,react,nodejs,fastapi,flask,tensorflow,sklearn,postgres,sqlite,git,bash,linux,cursor,codex,claude,vscode&perline=6" />
+    </td>
+    <td align="center" valign="top" style="border: none; padding: 10px;">
+      <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=tylinndd&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=8" />
+      <br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=tylinndd&theme=dark&hide_border=true" />
+    </td>
+  </tr>
 </table>
-</p>
-
-<!--horizontal divider (gradient)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--Connect-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me</h2></summary>
-  </ul>
-</div>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tylin-delaney/" target="blank">
-    <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-  </a>
-</p>
 
 <!--horizontal divider (gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
