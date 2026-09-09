@@ -36,7 +36,7 @@
 
 <p align="center">
   ✔️ Prev. Software Engineer Intern at Fiserv <br/>
-  ✔️ Currently working on <strong>ML research, data engineering pipelines, and building at hackathons</strong><br/>
+  ✔️ Currently working on <strong>Cloud Computing fundamentals and building at hackathons</strong><br/>
   ✔️ Learning <strong>C/C++, SQL, TensorFlow, Apache Airflow</strong><br/>
   ✔️ Interested in <strong>backend engineering, data engineering, and cloud computing</strong><br/>
   ✔️ Reach me at <a href="mailto:tylinjd1@gmail.com">tylinjd1@gmail.com</a> | <a href="https://tylindelaney.dev/">My Website</a> | <a href="https://www.linkedin.com/in/tylin-delaney/">LinkedIn</a>
