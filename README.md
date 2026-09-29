@@ -39,6 +39,7 @@
   ✔️ Currently working on <strong>Cloud Computing fundamentals and building at hackathons</strong><br/>
   ✔️ Learning <strong>C/C++, SQL, TensorFlow, Apache Airflow</strong><br/>
   ✔️ Interested in <strong>backend engineering, data engineering, and cloud computing</strong><br/>
+  ✔️ <strong>5x</strong> hackathon winner<br/>
   ✔️ Reach me at <a href="mailto:tylinjd1@gmail.com">tylinjd1@gmail.com</a> | <a href="https://tylindelaney.dev/">My Website</a> | <a href="https://www.linkedin.com/in/tylin-delaney/">LinkedIn</a>
 </p>
 
